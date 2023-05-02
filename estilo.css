@@ -119,7 +119,7 @@ body{
 .inicio .fila .col .btn-descargar{
     position: absolute;
     bottom: 0;
-    background-color: #cdb4ff;
+    background-color: rgb(110, 172, 110);
     display: block;
     width: 100%;
     text-decoration: none;
@@ -130,7 +130,7 @@ body{
     transition: .3s;
 }
 .inicio .fila .col .btn-descargar:hover{
-    background-color: #7550bf;
+    background-color: green;
     color: #fff;
 }
 .inicio .fila .col img{
