@@ -358,20 +358,11 @@ body{
     .contacto .fila .col .btn-enviar{
         width: 100%;
     }
+    .habilidades .fila .container-skill{
+        font-size: 18px;
+        
+    }
 
-
-.habilidades .fila .col{
-    padding: 50px 20px;
-}
-.habilidades .fila .col h3{
-    margin-bottom: 7px;
-}
-
-.habilidades .fila .container-skill .fill-skill{
-    width: 0%;
-    background-color: green;
-    transition: 1s;
-}
 .habilidades .fila .col:hover .container-skill #html{
     width: 80% !important;
 }
